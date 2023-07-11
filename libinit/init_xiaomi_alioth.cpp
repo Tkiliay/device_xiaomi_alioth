@@ -49,7 +49,7 @@ static const variant_info_t alioth_info = {
     .device = "alioth",
     .marketname = "Redmi K40",
     .model = "M2012K11AC",
-    .build_fingerprint = "Redmi/alioth/alioth:13/TKQ1.220829.002/V14.0.4.0.TKHCNXM:user/release-keys",
+    .build_fingerprint = "Redmi/alioth/alioth:13/TKQ1.220829.002/V14.0.7.0.TKHCNXM:user/release-keys",
 
     .nfc = true,
 };
